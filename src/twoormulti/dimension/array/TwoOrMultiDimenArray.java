@@ -5,7 +5,7 @@ public class TwoOrMultiDimenArray {
 	public static void main(String[] args) {
 		
 	     //  row column row col	
-		System.out.println("one checking");
+		System.out.println("two checking the content");
 		int a[][]=new int[2][4];//syntax for two or multi
     	a[0][0]=25;
 		a[0][1]=26;
